@@ -1,0 +1,3 @@
+[submodule "large-files-gitlab"]
+	path = large-files-gitlab
+	url = https://gitlab.com/holisticware-talks-presentations/HolisticWare.Talks.CASE27.git
